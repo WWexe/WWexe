@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Matheus Oening!
+# Olá, eu sou Matheus Oening!
 
 🎓 Estudante de **Engenharia de Software**  
 💻 Apaixonado por **desenvolvimento web e mobile**  
@@ -52,7 +52,7 @@
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/gui-brandao/" target="_blank">
+  <a href="https://www.linkedin.com/in/m-v-o/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
