@@ -17,7 +17,7 @@
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="SQL Server" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_SQL_Server_Logo.svg">
 </div>
 
 ---
