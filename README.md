@@ -1,7 +1,7 @@
 # Olá, eu sou Matheus Oening!
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Apaixonado por **desenvolvimento web e mobile**  
+💻 Gosto de **desenvolvimento web e mobile**  
 🚀 Sempre aprendendo novas tecnologias e construindo projetos pessoais  
 
 ---
