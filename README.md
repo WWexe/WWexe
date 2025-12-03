@@ -43,7 +43,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWexe&locale=pt-br&layout=compact&langs_count=5&theme=github_dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWexe&layout=compact&langs_count=6&theme=github_dark&hide_border=false"
     height="160"
     alt="Gráfico de Linguagens"
   />
