@@ -43,17 +43,18 @@
 
 ###
 
-<div align="center">
+<!-- Estatísticas Gerais -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=WWexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" 
-    height="160" 
-    alt="stats graph"  
+    src="https://github-readme-stats.vercel.app/api?username=WWexe&show_icons=true&theme=github_dark"
+    height="160"
+    alt="stats graph"
   />
 
+  <!-- Linguagens -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=WWexe&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=github_dark&hide_border=false" 
-    height="160" 
-    alt="languages graph"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWexe&layout=compact&theme=github_dark"
+    height="160"
+    alt="languages graph"
   />
 
   <img 
