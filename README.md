@@ -42,8 +42,17 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WWexe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WWexe&radius=16&theme=github-dark&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20WWexe" height="300" alt="activity-graph graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWexe&locale=pt-br&layout=compact&langs_count=5&theme=github_dark&hide_border=false"
+    height="160"
+    alt="Gráfico de Linguagens"
+  />
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=WWexe&theme=github-dark&radius=16&area=true&custom_title=Gráfico%20de%20Contribuições%20de%20WWexe"
+    height="300"
+    alt="Gráfico de Contribuições"
+  />
 </div>
 
 ---
