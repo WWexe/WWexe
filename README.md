@@ -39,19 +39,27 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="left">Estatísticas</h2>
+
+###
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWexe&layout=compact&langs_count=6&theme=github_dark&hide_border=false"
-    height="160"
-    alt="Gráfico de Linguagens"
+    src="https://github-readme-stats.vercel.app/api?username=WWexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" 
+    height="160" 
+    alt="stats graph"  
   />
 
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=WWexe&theme=github-dark&radius=16&area=true&custom_title=Gráfico%20de%20Contribuições%20de%20WWexe"
-    height="300"
-    alt="Gráfico de Contribuições"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=WWexe&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=github_dark&hide_border=false" 
+    height="160" 
+    alt="languages graph"  
+  />
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=WWexe&radius=16&theme=github-dark&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20WWexe" 
+    height="300" 
+    alt="activity-graph graph"  
   />
 </div>
 
